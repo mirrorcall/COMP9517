@@ -1,0 +1,135 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.24)  2 OCT 2019 14:25
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**&pdflatex prv_report.ini \nonstopmode\nofiles\PassOptionsToPackage{active,tightpage,auctex}{preview}\AtBeginDocument{\ifx\ifPreview\undefined\RequirePackage[displaymath,floats,graphics,textmath,sections,footnotes]{preview}[2004/11/05]\fi} \input {\detokenize{ report.tex }}
+(./prv_report.ini
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/carlisle/mylatex.ltx) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/.tex File ignored))
+No auxiliary output files.
+
+(./report.tex (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+ )
+Beginning to dump on file prv_report.fmt
+ (preloaded format=prv_report 2019.10.2)
+7618 strings of total length 123372
+59302 memory locations dumped; current usage is 219&57825
+4228 multiletter control sequences
+\font\nullfont=nullfont
+\font\OMX/cmex/m/n/5=cmex10
+\font\tenln=line10
+\font\tenlnw=linew10
+\font\tencirc=lcircle10
+\font\tencircw=lcirclew10
+\font\OT1/cmr/m/n/5=cmr5
+\font\OT1/cmr/m/n/7=cmr7
+\font\OT1/cmr/m/n/10=cmr10
+\font\OML/cmm/m/it/5=cmmi5
+\font\OML/cmm/m/it/7=cmmi7
+\font\OML/cmm/m/it/10=cmmi10
+\font\OMS/cmsy/m/n/5=cmsy5
+\font\OMS/cmsy/m/n/7=cmsy7
+\font\OMS/cmsy/m/n/10=cmsy10
+\font\OT1/cmr/m/n/12=cmr12
+\font\OT1/cmr/m/n/8=cmr8
+\font\OT1/cmr/bx/n/10=cmbx10
+\font\OT1/cmr/bx/it/10=cmbxti10
+\font\OT1/cmr/m/it/10=cmti10
+\font\OT1/cmtt/m/n/10=cmtt10
+\font\OT1/cmss/m/n/10=cmss10
+5716 words of font info for 21 preloaded fonts
+1141 hyphenation exceptions
+Hyphenation trie of length 374334 has 8773 ops out of 35111
+  143 for language 83
+  110 for language 82
+  138 for language 81
+  7 for language 80
+  12 for language 79
+  53 for language 78
+  127 for language 77
+  183 for language 76
+  71 for language 75
+  248 for language 74
+  62 for language 73
+  66 for language 72
+  119 for language 70
+  43 for language 69
+  58 for language 68
+  7 for language 67
+  194 for language 66
+  37 for language 65
+  23 for language 64
+  852 for language 63
+  852 for language 62
+  21 for language 61
+  38 for language 60
+  77 for language 59
+  58 for language 58
+  201 for language 57
+  105 for language 56
+  25 for language 55
+  27 for language 54
+  37 for language 53
+  229 for language 52
+  38 for language 51
+  21 for language 50
+  147 for language 37
+  185 for language 36
+  50 for language 35
+  18 for language 34
+  460 for language 33
+  235 for language 32
+  207 for language 31
+  39 for language 30
+  76 for language 29
+  40 for language 28
+  89 for language 27
+  31 for language 26
+  113 for language 23
+  145 for language 22
+  377 for language 21
+  224 for language 20
+  265 for language 19
+  60 for language 18
+  63 for language 17
+  19 for language 16
+  14 for language 15
+  21 for language 13
+  54 for language 12
+  36 for language 11
+  5 for language 10
+  148 for language 7
+  97 for language 6
+  137 for language 5
+  475 for language 4
+  478 for language 3
+  2 for language 1
+  181 for language 0
+0 words of pdfTeX memory
+0 indirect objects
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

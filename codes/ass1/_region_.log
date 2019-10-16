@@ -1,0 +1,55 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=prv_report 2019.10.2)  2 OCT 2019 14:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**&prv_report /AUCTEXINPUT{ _region_.tex }
+(./_region_.tex
+No file _region_.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+(/Users/zly/.emacs.d/elpa/auctex-12.1.2/latex/preview.sty
+Package: preview 2017/04/24 12.1 (AUCTeX/preview-latex)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/luatex85/luatex85.sty
+Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
+) (/Users/zly/.emacs.d/elpa/auctex-12.1.2/latex/prtightpage.def
+\PreviewBorder=\dimen103
+) (/Users/zly/.emacs.d/elpa/auctex-12.1.2/latex/prauctex.def
+No auxiliary output files.
+
+
+\hbadness=\count88
+\hfuzz=\dimen104
+(/Users/zly/.emacs.d/elpa/auctex-12.1.2/latex/prauctex.cfg)) (/Users/zly/.emacs.d/elpa/auctex-12.1.2/latex/prfootnotes.def)
+\pr@snippet=\count89
+\pr@box=\box27
+\pr@output=\toks14
+
+Preview: Fontsize 10pt
+Preview: PDFoutput 1
+)  !name(report.tex) !offset(-3)  ) 
+Here is how much of TeX's memory you used:
+ 182 strings out of 492382
+ 2710 string characters out of 6126628
+ 63066 words of memory out of 5000000
+ 4384 multiletter control sequences out of 15000+600000
+ 5723 words of font info for 21 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 24i,4n,25p,179b,114s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
