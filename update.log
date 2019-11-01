@@ -1,0 +1,99 @@
+[master 11b310f] Add more stuff
+ 100 files changed, 73034 insertions(+), 467 deletions(-)
+ create mode 100644 codes/ass1/_region_.log
+ create mode 100644 codes/ass1/_region_.tex
+ create mode 100644 codes/ass1/ass1.zip
+ create mode 100644 codes/ass1/auto/report.el
+ create mode 100644 codes/ass1/prv_report.log
+ create mode 100644 codes/ass1/report.aux
+ create mode 100644 codes/ass1/report.log
+ create mode 100644 codes/ass1/report.pdf
+ create mode 100644 codes/ass1/report.synctex.gz
+ create mode 100644 codes/ass1/report.tex
+ create mode 100644 codes/ass1/task1_light_rail_.jpg
+ create mode 100644 codes/ass1/task2__light_rail_3.jpg
+ create mode 100644 codes/ass1/task2__light_rail_5.jpg
+ create mode 100644 codes/ass1/task2__light_rail_7.jpg
+ create mode 100644 codes/ass1/task3__light_rail_3.jpg
+ create mode 100644 codes/ass1/task3__light_rail_5.jpg
+ create mode 100644 codes/ass1/task3__light_rail_7.jpg
+ create mode 100644 labs/lab1/ansel_adams.jpg
+ create mode 100644 labs/lab1/lab1.ipynb
+ create mode 100644 labs/lab1/laplacian.jpg
+ create mode 100644 labs/lab1/laplacian.jpg.zip
+ create mode 100644 labs/lab1/laplacian_2.jpg
+ create mode 100644 labs/lab1/laplacian_cs.jpg
+ create mode 100644 labs/lab1/laplacian_cs.jpg.zip
+ create mode 100644 labs/lab1/laplacian_notcs.jpg
+ create mode 100644 labs/lab2/Archive.zip
+ create mode 100644 labs/lab2/Eiffel_Tower.jpg
+ create mode 100644 labs/lab2/Lab2-19t3.pdf
+ create mode 100644 labs/lab2/road_sign.jpg
+ create mode 100644 labs/lab2/task3_0.jpg
+ create mode 100644 labs/lab2/task3_45.jpg
+ create mode 100644 labs/lab2/task3_90.jpg
+ create mode 100644 labs/lab2/template.py
+ create mode 100644 labs/lab3/Archive.zip
+ create mode 100644 labs/lab3/Figure_1.png
+ create mode 100644 labs/lab3/Figure_2.png
+ create mode 100644 labs/lab3/output/Figure_1.png
+ create mode 100644 labs/lab3/output/Figure_2.png
+ create mode 100644 labs/lab3/output/Figure_3.png
+ create mode 100644 labs/lab3/output/Figure_4.png
+ create mode 100644 labs/lab3/pics/coins.png
+ create mode 100644 labs/lab3/pics/shapes.png
+ create mode 100644 labs/lab3/pics/strawberry.png
+ create mode 100644 labs/lab3/pics/two_halves.png
+ create mode 100644 labs/lab3/template.py
+ rewrite notes/W1.ipynb (100%)
+ create mode 100644 notes/W3.ipynb
+ create mode 100644 notes/W3.md
+ create mode 100644 notes/img/Xnip2019-10-15_16-59-26.png
+ create mode 100644 notes/img/Xnip2019-10-15_17-05-58.png
+ create mode 100644 notes/img/Xnip2019-10-15_17-10-37.png
+ create mode 100644 notes/img/Xnip2019-10-15_17-11-23.png
+ create mode 100644 notes/img/Xnip2019-10-15_17-11-55.png
+ create mode 100644 notes/img/Xnip2019-10-15_17-12-16.png
+ create mode 100644 notes/img/Xnip2019-10-15_17-26-54.png
+ create mode 100644 notes/img/Xnip2019-10-15_22-04-46.png
+ create mode 100644 notes/img/Xnip2019-10-15_22-05-18.png
+ create mode 100644 notes/img/Xnip2019-10-15_22-11-23.png
+ create mode 100644 notes/img/Xnip2019-10-15_22-15-12.png
+ create mode 100644 notes/img/Xnip2019-10-15_22-24-31.png
+ create mode 100644 notes/img/Xnip2019-10-15_22-36-00.png
+ create mode 100644 notes/img/Xnip2019-10-15_22-41-52.png
+ create mode 100644 notes/img/Xnip2019-10-15_22-43-56.png
+ create mode 100644 notes/img/Xnip2019-10-15_22-50-06.png
+ create mode 100644 notes/img/Xnip2019-10-15_22-55-21.png
+ create mode 100644 notes/img/Xnip2019-10-15_23-23-56.png
+ create mode 100644 notes/img/Xnip2019-10-15_23-32-38.png
+ create mode 100644 notes/img/Xnip2019-10-15_23-42-02.png
+ create mode 100644 notes/img/Xnip2019-10-15_23-47-39.png
+ create mode 100644 notes/img/Xnip2019-10-15_23-55-05.png
+ create mode 100644 notes/img/Xnip2019-10-15_23-59-57.png
+ create mode 100644 slides/COMP_9517_Week_4_Segmentation_2019_T3_Part_1.pdf
+ create mode 100644 slides/COMP_9517_Week_4_Segmentation_2019_T3_Part_2.pdf
+ create mode 100644 slides/code - Jupyter Notebook.htm
+ create mode 100644 slides/code - Jupyter Notebook_files/MathJax.js
+ create mode 100644 slides/code - Jupyter Notebook_files/bootstrap-tour.min.css
+ create mode 100644 slides/code - Jupyter Notebook_files/codemirror.css
+ create mode 100644 slides/code - Jupyter Notebook_files/contents.js
+ create mode 100644 slides/code - Jupyter Notebook_files/custom.css
+ create mode 100644 slides/code - Jupyter Notebook_files/custom.js
+ create mode 100644 slides/code - Jupyter Notebook_files/encoding.js
+ create mode 100644 slides/code - Jupyter Notebook_files/index.js
+ create mode 100644 slides/code - Jupyter Notebook_files/jquery-ui.min.css
+ create mode 100644 slides/code - Jupyter Notebook_files/jquery.typeahead.min.css
+ create mode 100644 slides/code - Jupyter Notebook_files/logo.png
+ create mode 100644 slides/code - Jupyter Notebook_files/main(1).js
+ create mode 100644 slides/code - Jupyter Notebook_files/main.min.js
+ create mode 100644 slides/code - Jupyter Notebook_files/override.css
+ create mode 100644 slides/code - Jupyter Notebook_files/promise.min.js
+ create mode 100644 slides/code - Jupyter Notebook_files/react-dom.production.min.js
+ create mode 100644 slides/code - Jupyter Notebook_files/react.production.min.js
+ create mode 100644 slides/code - Jupyter Notebook_files/require.js
+ create mode 100644 slides/code - Jupyter Notebook_files/style.min.css
+ create mode 100644 slides/week3_Features_19t3.pdf
+ create mode 100644 slides/week5_PatternRecognition_Part1_19T3.pdf
+ create mode 100644 slides/week5_PatternRecognition_Part1_19T3_updated.pdf
+Already up to date.
